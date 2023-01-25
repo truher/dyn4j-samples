@@ -154,7 +154,7 @@ public abstract class SimulationFrame extends JFrame {
 		});
 		
 		// create the size of the window
-		Dimension size = new Dimension(800, 600);
+		Dimension size = new Dimension(1600, 1200);
 		
 		// create a canvas to paint to 
 		this.canvas = new Canvas();
