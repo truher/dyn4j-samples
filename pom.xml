@@ -19,7 +19,7 @@
   	<url>https://github.com/dyn4j/dyn4j-samples/issues</url>
   </issueManagement>
   <properties>
-    <maven.compiler.release>6</maven.compiler.release>
+    <maven.compiler.release>11</maven.compiler.release>
   </properties>
   <dependencies>
   	<dependency>
